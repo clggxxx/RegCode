@@ -1,41 +1,22 @@
 # RegCode
 
+#### Create Reg Code
+![Create Reg Code](vx_images/1211111140651.gif)
+#### Reg
+![Reg](vx_images/1270214159077.gif)
 #### Description
-一个生成注册码C#DEMO
-PC端生成机器码
-MD5加密生成注册码
-解密注册
-程序注册
-过期时间
+A generating registration code c # demo
 
-#### Software Architecture
-Software architecture description
+PC generates machine code
 
-#### Installation
+MD5 encrypts to generate registration code
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Decryption registration
 
-#### Instructions
+Program registration
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Expiration time
 
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### Explain
+Dependencies
+.NetFramework >= 4.0
