@@ -1,7 +1,7 @@
 # RegCode
 
 #### 生成注册码
-![生成注册码](https://gitee.com/clggxxx/images/raw/master/pic/20210610/140958365-1.gif)file:///E:/Git/reg/reg-code/README.en.md
+![生成注册码](https://gitee.com/clggxxx/images/raw/master/pic/20210610/140958365-1.gif)
 #### 注册机
 ![注册机](https://gitee.com/clggxxx/images/raw/master/pic/20210610/140958365-1.gif)
 
@@ -16,4 +16,4 @@ MD5加密生成注册码
 注册信息包括机器码、过期时间
 
 #### 说明
-依赖环境 .Net 4.0
+依赖环境 .Net >=4.0
