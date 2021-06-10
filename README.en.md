@@ -1,9 +1,9 @@
 # RegCode
 
 #### Create Reg Code
-![Create Reg Code](vx_images/1211111140651.gif)
+![Create Reg Code](https://gitee.com/clggxxx/images/raw/master/pic/20210610/140958365-1.gif)
 #### Reg
-![Reg](vx_images/1270214159077.gif)
+![Reg](https://gitee.com/clggxxx/images/blob/master/pic/20210610/141340343-1.gif)
 #### Description
 A generating registration code c # demo
 
